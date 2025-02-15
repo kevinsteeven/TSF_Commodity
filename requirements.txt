@@ -1,0 +1,5 @@
+neuralpropket
+streamlit
+yfinance
+pandas
+plotly
