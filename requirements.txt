@@ -1,4 +1,4 @@
-neuralpropket
+neuralprophet
 streamlit
 yfinance
 pandas
